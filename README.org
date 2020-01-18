@@ -1,0 +1,4 @@
+#+title: major-extension.el
+#+author: Will Dey
+
+Does basic regex parsing of ~auto-mode-alist~ to try and guess an appropriate file extension for the mode MODE. If it cannot figure out an extension, nil is returned.
